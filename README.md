@@ -1,2 +1,2 @@
 # PARALLAX EFFECT
-## by Nostro
+by Nostro
